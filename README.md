@@ -1,4 +1,4 @@
-### ChemSpiderSearch
+### ChemSpider
 
 This repository is a react utility to interface with the ChemSpider API and display results.
 
