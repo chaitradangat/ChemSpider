@@ -133,24 +133,7 @@ function App() {
 
       <br />
 
-      <footer style={{
-        textAlign: 'center',
-        padding: '20px 0',
-        background: 'rgba(245, 246, 250, 0.7)', // semi-transparent
-        color: '#4a90e2',
-        fontWeight: 'bold',
-        fontSize: '1.2em',
-        position: 'fixed',
-        left: 0,
-        bottom: 0,
-        width: '100%',
-        boxShadow: '0 -2px 8px rgba(44, 62, 80, 0.05)',
-        backdropFilter: 'blur(8px)', // subtle blur
-        borderTop: '1px solid #e1e4ea', // soft border
-        zIndex: 100
-      }}>
-        Happy Wednesday!
-      </footer>
+      
     </div>
   );
 }
